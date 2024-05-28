@@ -18,4 +18,4 @@ You can run the following scripts:
 python ./PipeSFLV1_ResNet50_Cifar100.py  
 python ./PipeSFLV2_ResNet50_Cifar100.py
 ```  
-Assume that you have four GPUs on a single node and everything works well, you will see that three clients collaboratively training the ResNet50 model with the Cifar100 dataset using the PipeSFL framework, where the cloud server and the Fed server is one GPU, and each client is one CPU.
+Assume that you have four GPUs on a single node and everything works well, you will see that three clients collaboratively training the ResNet50 model with the Cifar100 dataset using the PipeSFL framework, where the cloud server and each client is one GPU, and the Fed server is one CPU.
