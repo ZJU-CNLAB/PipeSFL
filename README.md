@@ -1,6 +1,6 @@
 # PipeSFL: A Fine-Grained Parallelization Framework for Split Federated Learning on Heterogeneous Clients #  
 ## Introduction ##
-This repository contains the codes of the PipeSFL paper submitted to *IEEE TMC*. PipeSFL is a fine-grained parallelization framework for accelerating Split Federated Learning (SFL) on heterogeneous clients. PipeSFL outperforms the state-of-the-art communication framework [SFL](https://github.com/chandra2thapa/SplitFed-When-Federated-Learning-Meets-Split-Learning) and SL.  
+This repository contains the codes of the PipeSFL paper accepted by *IEEE TMC*. PipeSFL is a fine-grained parallelization framework for accelerating Split Federated Learning (SFL) on heterogeneous clients. PipeSFL outperforms the state-of-the-art communication framework [SFL](https://github.com/chandra2thapa/SplitFed-When-Federated-Learning-Meets-Split-Learning) and SL.  
 
 ## Installation ##
 ### Prerequisites ###
